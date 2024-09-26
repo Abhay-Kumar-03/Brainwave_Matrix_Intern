@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(106, 32, 124, 0.908);
+    background-color: rgba(71, 176, 232, 0.908);
     font-family: 'Poppins', sans-serif;
  }
  .container{
@@ -12,6 +12,7 @@ body{
     border-radius: 30px;
  }
  input{
+   
     width: 270px;
     padding: 8px;
     border: 2px solid rgb(6, 145, 145);
